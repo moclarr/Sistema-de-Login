@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(to bottom, #020617, #0f172a, #020617);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e2e8f0;
+}
